@@ -27,7 +27,7 @@ export default function Page() {
           />
         </div>
       </main>
-      <footer className="p-4 text-[12px] mt-5">
+      <footer className="p-4 text-[12px] text-gray-500 mt-10">
         <div className="wrapper max-w-4xl mx-auto">
           <div className="">&copy; {Date()}</div>
         </div>
