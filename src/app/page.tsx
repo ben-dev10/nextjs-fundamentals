@@ -7,7 +7,7 @@ export default function Page() {
       <main className="p-4 text-[12px] ">
         <div className="wrapper max-w-4xl mx-auto">
           <h1
-            className="text-5xl font-[800]"
+            className="text-5xl font-[800] mt-4"
             style={gradientText("linear-gradient(to right, #0076ff, #6a309e)")}
           >
             Welcome To Next.js Fundamentals

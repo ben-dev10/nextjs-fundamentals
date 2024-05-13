@@ -1,0 +1,20 @@
+[
+  {
+    "_id": "6585b0ede68467de5cc36722",
+    "title": "Drive to Survive",
+    "description": "Formula 1's recent events, drama and celebrations at major competitions across the globe - Brazilian Grand Prix",
+    "stars": 9.4,
+    "createdAt": "2023-12-22T15:53:17.488Z",
+    "updatedAt": "2023-12-22T15:53:17.488Z",
+    "__v": 0
+  },
+  {
+    "_id": "6585b08fe68467de5cc36720",
+    "title": "Avatar Aang, The Last Air Bender",
+    "description": "Several Years ago, the 4 nations lived together in harmony, then everything changed when the fire nation attacked",
+    "stars": 10,
+    "createdAt": "2023-12-22T15:51:44.001Z",
+    "updatedAt": "2023-12-22T17:17:10.666Z",
+    "__v": 0
+  }
+]

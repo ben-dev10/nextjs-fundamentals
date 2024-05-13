@@ -1,4 +1,5 @@
 import Query from "@/components/Query";
+import QueryMovies from "@/components/actions/QueryMovies";
 
 export default function Page() {
   return (
@@ -10,8 +11,9 @@ export default function Page() {
           </h3>
         </div>
         <div className="p-3">
-          <h3 className="font-[600] mt-3">Servers in Next.js</h3>
+          <h3 className="font-[600] text-2xl mt-3">Servers in Next.js</h3>
           <Query />
+          <QueryMovies />
         </div>
       </div>
     </main>

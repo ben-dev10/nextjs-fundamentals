@@ -24,6 +24,8 @@ export default function NavBar() {
           </Link>
         </nav>
       </div>
+
+      <div className="doodle"></div>
     </div>
   );
 }
