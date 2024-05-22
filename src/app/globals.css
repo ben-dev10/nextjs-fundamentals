@@ -25,3 +25,15 @@
   z-index: -1;
   opacity: .1;
 }
+
+.navLink {
+  @apply text-[12px] text-gray-600 hover:text-indigo-500
+}
+
+.article {
+  @apply flex flex-col gap-3 tracking-wide mb-20
+}
+
+.article>h2 {
+  @apply text-2xl font-bold font-[Garamond]
+}

@@ -10,17 +10,14 @@ export default function NavBar() {
           </Link>
         </div>
         <nav className="links flex gap-3 duration-200">
-          <Link
-            href={"/tutorials"}
-            className="text-[12px] text-indigo-600 hover:text-indigo-400"
-          >
+          <Link href={"/tutorials"} className="navLink">
             Tutorials
           </Link>
-          <Link
-            href={"/about"}
-            className="text-[12px] text-indigo-600 hover:text-indigo-400"
-          >
+          <Link href={"/about"} className="navLink">
             About
+          </Link>
+          <Link href={"/blog"} className="navLink">
+            Blog
           </Link>
         </nav>
       </div>
